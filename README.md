@@ -2,6 +2,7 @@
 
 -----------------------------------------------
 Simple script for parsing channels from tgstat.com
+
 Output in JSON or CSV
 
 Chrome Version 116 REQUIRED
