@@ -1,6 +1,8 @@
 ![me](https://github.com/spac3orange/tgstat_parser_v1/blob/master/example.gif)
 
 -----------------------------------------------
+Simple script for parsing channels from tgstat.com
+Output in JSON or CSV
 
 Chrome Version 116 REQUIRED
 
