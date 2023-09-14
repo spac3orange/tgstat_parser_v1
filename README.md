@@ -1,4 +1,4 @@
-<img src="https://s11.gifyu.com/images/S4EID.gif" alt="Parsing_Tgstat">
+![me](https://github.com/spac3orange/tgstat_parser_v1/blob/master/example.gif)
 
 -----------------------------------------------
 
