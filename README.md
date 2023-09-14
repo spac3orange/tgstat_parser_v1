@@ -8,6 +8,15 @@ Output in JSON or CSV
 Chrome Version 116 REQUIRED
 
 -----------------------------------------------
+
+After the first launch of the script, the tgstat.com page will be opened, on which you will need to log in through the Telegram client
+
+When you log in to the site script will collect cookies and save them in the folder /cookies
+
+Authorization will no longer be required when the script is restarted
+
+-----------------------------------------------
+
 Start command examples:
 
 python tgstat_parser.py -o 1 (for one keyword)
